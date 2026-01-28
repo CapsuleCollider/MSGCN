@@ -2,7 +2,7 @@
 
 > Official PyTorch Implementation - **Masked Spatiotemporal GCN**
 
-> Authors: Anonymous (Based on AAAI 2026 Submission Paper)
+> Authors: Anonymous
 
 
 ## Project Overview
